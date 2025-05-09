@@ -1,9 +1,11 @@
-Code Demo:
-https://youtu.be/0q1pOu8TZuk
-Check Point 2 Video:
-https://www.youtube.com/watch?v=3zfUv1AiOY0
-Github Link:
-https://github.com/csu-hci-projects/CS465_DosunmuX_KinsellaK/tree/main
-OverLeaf Link:
-https://www.overleaf.com/read/wzzcgkqywdbh#d2857b
-No additional videos or references needed.
+pip install opencv-python
+pip install mediapipe
+pip install SpeechRecognition
+pip install pygame
+pip install pyaudio
+
+these are the libraries that are needed to make the program work.
+Please make sure these are installed and there are not conflicting libraries that would cause the program to break. 
+once the downloaded 
+python ./main
+will run the program. 
